@@ -24,3 +24,16 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.container-p{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+
+.container {
+width: 200px;
+display: flex;
+flex-direction: column;
+
+}
